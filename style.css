@@ -1,0 +1,30 @@
+body { 
+  background: #77c3cc;
+  border: 5px solid darkseagreen;
+  padding: 20px;
+  margin: 20px
+}
+
+h1 {
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+  color: white;
+  font-style: italic;
+}
+
+h2{
+  color: white;
+}
+
+h3 {
+  text-align: center;
+  color: white;
+}
+
+img {
+  float: right;
+}
+
+p {
+  color: white;
+}
